@@ -54,7 +54,42 @@ All this progress brings us new possibilities for developing high-accuracy model
 39.	Bitencourt-Ferreira G, Villarreal MA, Quiroga R, Biziukova N, Poroikov V, Tarasova O, de Azevedo Junior WF (2024) Exploring Scoring Function Space: Developing Computational Models for Drug Discovery. Curr Med Chem 31(17):2361–2377.
 40.	Mulat M, Banicod RJS, Tabassum N, Javaid A, Kim TH, Kim YM, Khan F (2025) Application of artificial intelligence in microbial drug discovery: Unlocking new frontiers in biotechnology. J Microbiol Methods 237:107232.
 41.	Baud S, de Azevedo WF (2025) Protein-Ligand Docking Simulations for Drug Discovery. Curr Med Chem 32(28):5879–5881.
-
-
+<br> </br>
+<h2>Chapters</h2>
+<h3><b>Chapter 01: Databases for Drug Discovery with Artificial Intelligence</b></h3>
+<p>
+</p>
+<b>Jupyter Notebooks (Google Colab)</b>
+<pre><a href = "https://colab.research.google.com/drive/1tqKTwLlYEfMB-4RYW9mcCF9o4e6OSgEx?usp=sharing" title = "prepare_BindingDB4AI.ipynb">prepare_BindingDB4AI.ipynb</a>
+<a href = "https://colab.research.google.com/drive/1jDWnzfcMI8B7jDwX9V27dRwmfJIAlEBD?usp=sharing" title = "prepare_MVD4AI.ipynb">prepare_MVD4AI.ipynb</a>
+<a href = "https://colab.research.google.com/drive/1QgJTWHoNCnhXEP-1i0vNu7L6SweZ9jAy?usp=sharing" title = "visualize_dataset4AI.ipynb">visualize_dataset4AI.ipynb</a>
+<a href = "https://colab.research.google.com/drive/1Eo9wvxXTmVvECUpetPRKQgvOhaM980Cr?usp=sharing" title = "PyTorchNN4PLSF.ipynb">PyTorchNN4PLSF.ipynb</a></pre>
+<h3>Chapter 02: Combining Docking Simulations with Artificial Intelligence</h3>
+<p>
+</p>
+<b>Jupyter Notebooks (Google Colab)</b>
+<pre><a href = "https://colab.research.google.com/drive/1tqKTwLlYEfMB-4RYW9mcCF9o4e6OSgEx?usp=sharing" title = "prepare_BindingDB4AI.ipynb">prepare_BindingDB4AI.ipynb</a>
+<a href = "https://colab.research.google.com/drive/1jDWnzfcMI8B7jDwX9V27dRwmfJIAlEBD?usp=sharing" title = "prepare_MVD4AI.ipynb">prepare_MVD4AI.ipynb</a>
+<a href = "https://colab.research.google.com/drive/1QgJTWHoNCnhXEP-1i0vNu7L6SweZ9jAy?usp=sharing" title = "visualize_dataset4AI.ipynb">visualize_dataset4AI.ipynb</a>
+<a href = "https://colab.research.google.com/drive/1Eo9wvxXTmVvECUpetPRKQgvOhaM980Cr?usp=sharing" title = "PyTorchNN4PLSF.ipynb">PyTorchNN4PLSF.ipynb</a></pre>
+<h3>Chapter 03: Vina Scoring Function for Protein-Ligand Docking Simulations</h3>
+<p>
+</p>
+<b>Jupyter Notebooks (Google Colab)</b>
+<pre><a href = "https://colab.research.google.com/drive/1tqKTwLlYEfMB-4RYW9mcCF9o4e6OSgEx?usp=sharing" title = "prepare_BindingDB4AI.ipynb">prepare_BindingDB4AI.ipynb</a>
+<a href = "https://colab.research.google.com/drive/1jDWnzfcMI8B7jDwX9V27dRwmfJIAlEBD?usp=sharing" title = "prepare_MVD4AI.ipynb">prepare_MVD4AI.ipynb</a>
+<a href = "https://colab.research.google.com/drive/1QgJTWHoNCnhXEP-1i0vNu7L6SweZ9jAy?usp=sharing" title = "visualize_dataset4AI.ipynb">visualize_dataset4AI.ipynb</a>
+<a href = "https://colab.research.google.com/drive/1Eo9wvxXTmVvECUpetPRKQgvOhaM980Cr?usp=sharing" title = "PyTorchNN4PLSF.ipynb">PyTorchNN4PLSF.ipynb</a></pre>
+<br> </br>
+<h2><a href = "https://github.com/azevedolab/About-Me" title = "About Prof. Walter Filgueira de Azevedo, Jr."> About Me </a> </h2> 
+<a href="https://scholar.google.com/citations?user=HWwJXJUAAAAJ" title = "Link to Google Scholar">
+<img src="https://drive.usercontent.google.com/download?id=1rL_DWbMj6timTlYlhn9Hwm1acq8AU4QV&export=view&authuser=0" height=24 alt="Link to Google Scholar"></a>  
+<a href="https://www.scopus.com/authid/detail.uri?authorId=7006435557" title = "Link to Scopus">
+<img src="https://drive.usercontent.google.com/download?id=1URGO8UDkZV_4wX_4c0_gUvhEjfnUyqCQ&export=view&authuser=0" height=24 alt="Link to Scopus"></a>
+<a href="https://www.webofscience.com/wos/author/record/581112" title = "Link to Web Of Science">
+<img src="https://drive.usercontent.google.com/download?id=1pEf0pZ9go-xPspc5xw_dR46fm-QfQalb&export=view&authuser=0" height=24 alt="Link to Web Of Science"></a>
+<a href="https://heyzine.com/flip-book/7141841e54.html" title = "Link to Curriculum Vitae">
+<img src="https://drive.usercontent.google.com/download?id=1dBTT8igB-ykqF6L3FaffrGcv-2FaNNJy&export=view&authuser=0" height=24 alt="Link to Curriculum Vitae"></a>
+<br> </br>
                        		
     		
