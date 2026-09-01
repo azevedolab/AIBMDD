@@ -1,12 +1,9 @@
 # AIBMDD
-<br><b>AI-Based Models in Drug Discovery (1st Edition)</b></br>
-<br> </br>
-Editor: Prof. Walter Filgueira de Azevedo, Jr.
-Proposed date: January 31, 2027. 
+<br><b>AI-Based Models in Drug Discovery</b></br>
+Editor: <a href="https://www.scopus.com/authid/detail.uri?authorId=7006435557" title = "Scopus ID: 7006435557">Dr. Walter Filgueira de Azevedo, Jr.</a> Proposed date: January 31, 2027. 
 <br> </br>
 The success of deep learning techniques in building protein models expands the portion of protein-structure space available for drug discovery projects. Additionally, binding databases provide receptor-ligand affinity data fully integrated with structural data. Thanks to these developments, we have an ideal scenario for AI development to address protein-ligand interactions. We can integrate binding and structural data to train AI models to predict affinity based on atomic coordinates. With this in mind, we prepared this book on AI models built to address protein-drug interactions. Here we have state-of-the-art techniques focused on protein-ligand interactions. We describe the most recent developments in the scoring functions available in the docking program AutoDock Vina. We explore the concept of scoring function space to build AI models that predict binding affinity from the atomic coordinates of protein-ligand complexes. You will find chapters focused on applications of PyTorch and Scikit-Learn for building AI models to predict binding affinity.
 <br> </br>
-
 <h2>Chapters</h2>
 <h3><b>Chapter 01: Databases for Drug Discovery with Artificial Intelligence</b></h3>
 <b>Jupyter Notebooks (Google Colab)</b>
@@ -33,7 +30,7 @@ The success of deep learning techniques in building protein models expands the p
 <h3>Chapter 05: Metrics to Evaluate Predictive Performance of AI-Based Models</h3>
 <b>Jupyter Notebooks (Google Colab)</b>
 <pre><a href = "https://colab.research.google.com/drive/1GlwYEGPXMFCvSY_uHlxy_Aei7LTSetuO?usp=sharing" title = "prepare_BindingDB4AI_VD3.ipynb">prepare_BindingDB4AI_VD3.ipynb</a>
-<a href = "https://colab.research.google.com/drive/1wSVBB71fpZYTr5sZB2k3ivLLVC9ZSABf?usp=sharing" title = "visualize_dataset4AI_VD3.ipynb">visualize_dataset4AI_VD3.ipynb</a>
+<a href = "https://colab.research.google.com/drive/1GtTUs-urLpCFDGHtLKSNKWOKY4Q93NUh?usp=sharing" title = "visualize_dataset4AI_VD3.ipynb">visualize_dataset4AI_VD3.ipynb</a>
 <a href = "https://colab.research.google.com/drive/1X2y-h1FPLunsIZfLK2O5OSkx2ROMFkBN?usp=sharing" title = "PyTorchNN4PLSF_VD3.ipynb">PyTorchNN4PLSF_VD3.ipynb</a></pre>
 <h3>Chapter 06: Feature Engineering for Scoring Function Development</h3>
 <b>Jupyter Notebooks (Google Colab)</b>
