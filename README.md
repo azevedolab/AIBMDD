@@ -1,6 +1,6 @@
 # AIBMDD
 <br><b>AI-Based Models in Drug Discovery</b></br>
-Editor: <a href="https://www.scopus.com/authid/detail.uri?authorId=7006435557" title = "Scopus ID: 7006435557">Dr. Walter Filgueira de Azevedo, Jr.</a> Proposed date: January 31, 2027. 
+Editor: <a href="https://www.scopus.com/authid/detail.uri?authorId=7006435557" title = "Scopus ID: 7006435557">Dr. Walter Filgueira de Azevedo, Jr.</a> Proposed date: January 31, 2027.
 <br> </br>
 The success of deep learning techniques in building protein models expands the portion of protein-structure space available for drug discovery projects. Additionally, binding databases provide receptor-ligand affinity data fully integrated with structural data. Thanks to these developments, we have an ideal scenario for AI development to address protein-ligand interactions. We can integrate binding and structural data to train AI models to predict affinity based on atomic coordinates. With this in mind, we prepared this book on AI models built to address protein-drug interactions. Here we have state-of-the-art techniques focused on protein-ligand interactions. We describe the most recent developments in the scoring functions available in the docking program AutoDock Vina. We explore the concept of scoring function space to build AI models that predict binding affinity from the atomic coordinates of protein-ligand complexes. You will find chapters focused on applications of PyTorch and Scikit-Learn for building AI models to predict binding affinity.
 <br> </br>
